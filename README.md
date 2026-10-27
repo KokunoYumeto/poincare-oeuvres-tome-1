@@ -54,7 +54,7 @@ translation and typesetting are dedicated to the public domain under [CC0 1.0](L
 ## Earlier versions
 
 Earlier versions were published on Zenodo, [doi:10.5281/zenodo.20673461](https://doi.org/10.5281/zenodo.20673461).
-That record is no longer updated.
+Zenodo has blocked access to our account, so please use this repository from now on.
 
 ---
 
