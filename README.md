@@ -37,6 +37,11 @@ On 27 October 2026 Claude Opus 5.5 (Anthropic) compared the opening of Chapter X
 189) with the scan; the text and formulas agree with the print. Other pages have not had a second check by a
 different model.
 
+## Status
+
+A partial edition of Tome I, as listed under Completeness. Errors may remain in the transcription and the
+translation; corrections are welcome through the [issues page](https://github.com/KokunoYumeto/poincare-oeuvres-tome-1/issues).
+
 ## Source
 
 The transcription follows the Internet Archive scan of the University of Connecticut Libraries copy,
@@ -50,11 +55,6 @@ Run `pdflatex` twice on each file in `tex/`.
 
 Poincaré's texts are in the public domain, as are Appell's and Drach's editorial contributions. The transcription,
 translation and typesetting are dedicated to the public domain under [CC0 1.0](LICENSE).
-
-## Earlier versions
-
-Earlier versions were published on Zenodo, [doi:10.5281/zenodo.20673461](https://doi.org/10.5281/zenodo.20673461).
-Zenodo has blocked access to our account, so please use this repository from now on.
 
 ---
 
